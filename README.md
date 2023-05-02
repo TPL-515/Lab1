@@ -1,6 +1,6 @@
 # Lab 1
 
-For this lab we will be showing off the capabilities of a tool called [Dagster](https://dagster.io/). Dagster essentially allows users to build analytic pipelines easily with a python based interfaced for interacting. 
+For this lab we will be showing off the capabilities of a tool called [Dagster](https://dagster.io/). Dagster essentially allows users to build analytic pipelines easily with a python based interfaced for interacting. This first lab will go over installation of dagster as well as a brief overview of what is within the user interface for dagster. By the end of the lab you should be familiar with materializing jobs in Dagster
 
 ## Getting Started
 
